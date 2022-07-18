@@ -12,3 +12,7 @@
 for i in nums:
   print(i)
 ```
+
+[ ] Turn on GitHub Pages
+[ ] Follow the tutorial items
+[ ] Merge pull requests
